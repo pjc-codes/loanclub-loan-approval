@@ -9,6 +9,8 @@ Loan default is a critical risk for lending institutions. This project addresses
 
 `loan_approval_modeling.ipynb` contains the entire workflow.
 
+You can also go to the blogpost explaining the project: https://medium.com/@prathik.codes/predicting-loan-default-with-machine-learning-1295afdea799
+
 ## Dataset
 
 - **Source**: LendingClub public dataset of historical loan records
